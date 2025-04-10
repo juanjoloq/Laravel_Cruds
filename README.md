@@ -5,7 +5,7 @@
 
 2. CREAR EL ARCHIVO .env SI ESTE SIGUENTE COMANDO NO LE DA DUPLIQUE EL .env.example Y QUITE EL .example.
 	
-##cp .env.example .env
+## cp .env.example .env
 
 3. TENER ACTIVADO EL XAMPP Y CREA UNA DB ("NOMBRE SUGERIDO proyectolaravel ")
 
